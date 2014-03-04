@@ -3,4 +3,4 @@ List of countries:
 * Denmark
 * Spain
 * VietNam
-* VIETNAM
+* Vietnam
